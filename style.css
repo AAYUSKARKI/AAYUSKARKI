@@ -1,0 +1,31 @@
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    color: red;
+    size: 40px;
+}
+
+a {
+    margin-right: 150px;
+    justify-content: center;
+    display: flex;
+}
+
+a:hover {
+    color: white;
+    text-decoration-color: black;
+    text-decoration: none;
+    margin-right: 150px;
+}
+
+.portfolio {
+    justify-content: center;
+}
+
+img {
+    display: flex;
+    height: 480px;
+    width: 400 px;
+}
