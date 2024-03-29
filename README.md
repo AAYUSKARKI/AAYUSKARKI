@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aayus-karki-7b2066228?trk=contact-info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aayus-karki-7b2066228?trk=contact-info" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100079653687919&mibextid=lqqj4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100079653687919&mibextid=lqqj4d" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100079653687919&mibextid=lqqj4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100079653687919&mibextid=lqqj4d" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/aayuskarki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aayuskarki" height="30" width="40" /></a>
 </p>
 
