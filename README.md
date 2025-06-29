@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayuskarki" alt="aayuskarki" /></a> </p>
 
-- 🔭 I’m currently working on [Chat App](https://github.com/AAYUSKARKI/CHAT_APP_PROJECT)
+- 🔭 I’m currently working on [FYP](https://github.com/AAYUSKARKI/anomalyze)
 
-- 🌱 I’m currently learning **Nodejs,Express,MongoDB,React**
+- 🌱 I’m currently Studying BSC.CSIT 
 
 - 👯 I’m looking to collaborate on [Full_Stack_Project](https://github.com/AAYUSKARKI/FULLSTACK_PROJECT)
 
@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://www.karkiaayus.com.np/](https://www.karkiaayus.com.np/)
 
-- 💬 Ask me about **react,gsap,nodejs**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **karki.aayush2003@gmail.com**
 
