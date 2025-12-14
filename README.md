@@ -4,17 +4,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayuskarki" alt="aayuskarki" /></a> </p>
 
-- 🔭 I’m currently working on [FYP](https://github.com/AAYUSKARKI/anomalyze)
+- 🔭 I’m currently working on [RestaurantQRify](https://github.com/AAYUSKARKI/RestaurantQRify)
 
-- 🌱 I’m currently Studying BSC.CSIT 
+- 🌱 I’m currently Studying BSC.CSIT (8th semester) 
 
-- 👯 I’m looking to collaborate on [Full_Stack_Project](https://github.com/AAYUSKARKI/FULLSTACK_PROJECT)
+- 👯 I’m looking to collaborate on [Multi-Tenant Inventory](https://github.com/AAYUSKARKI/Multi-Tenant-Inventory-SaaS-Server)
 
-- 🤝 I’m looking for help with [Vide_Uploading_Platform](https://github.com/AAYUSKARKI/BACKEND)
+- 🤝 I’m looking for Opportunities to work
 
 - 👨‍💻 All of my projects are available at [https://www.aayuskarki.com.np/](https://www.aayuskarki.com.np/)
 
-- 📝 I regularly write articles on [https://www.karkiaayus.com.np/](https://www.karkiaayus.com.np/)
+- 📝 I  write blogs on [https://www.karkiaayus.com.np/](https://www.karkiaayus.com.np/)
 
 - 💬 Ask me about **MERN Stack**
 
