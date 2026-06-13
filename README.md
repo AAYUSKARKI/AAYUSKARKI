@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [RestaurantQRify](https://github.com/AAYUSKARKI/RestaurantQRify)
 
-- 🌱 I’m currently Studying BSC.CSIT (8th semester) 
+- 🌱 Completed Bachelor of Science in Computer Science and Information Technology (B.Sc. CSIT)
 
 - 👯 I’m looking to collaborate on [Multi-Tenant Inventory](https://github.com/AAYUSKARKI/Multi-Tenant-Inventory-SaaS-Server)
 
